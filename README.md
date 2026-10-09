@@ -27,8 +27,8 @@ Penggunaan
 2. Akses berkas melalui browser (contoh: domain.com/goat-creator.php).
 3. Masukkan Username dan Email, lalu tekan tombol B00M!.
 4. Simpan kata sandi yang muncul pada layar.
+5. Done
 
-Warning!! Hapus berkas ini dari server setelah selesai digunakan demi keamanan.
 ```
     
 ## Authors
