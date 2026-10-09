@@ -1,17 +1,13 @@
-README.txt - Dokumentasi Kode Goat Creator
-
-================================================================================
 DESKRIPSI UMUM
-================================================================================
+
 Goat Creator adalah skrip PHP mandiri yang berfungsi untuk menambahkan akun
 administrator baru ke dalam situs web berbasis WordPress langsung melalui
 peramban (browser). Skrip ini memuat dependensi WordPress, memproses input form,
 menghasilkan kata sandi acak yang aman, dan meregistrasikan user dengan hak
 akses administrator.
 
-================================================================================
 PENJELASAN FUNGSI DAN STRUKTUR KODE
-================================================================================
+
 
 1. LOGIKA UTAMA & FUNGSI PHP
 
@@ -47,7 +43,6 @@ PENJELASAN FUNGSI DAN STRUKTUR KODE
   Menagkap pesan kesalahan yang dihasilkan oleh sistem WordPress jika proses
   pembuatan user mengalami kegagalan.
 
-
 2. TAMPILAN DAN ANTARMUKA (HTML/CSS)
 
 - Variable CSS (--bg-color, --card-bg, --accent-red, dll)
@@ -66,9 +61,8 @@ PENJELASAN FUNGSI DAN STRUKTUR KODE
   Menampilkan ikon vektor GitHub secara langsung di bagian footer tanpa
   memerlukan dependensi gambar dari luar.
 
-================================================================================
 CARA PENGGUNAAN
-================================================================================
+
 1. Unggah berkas ini ke direktori utama (root directory) WordPress.
 2. Akses berkas melalui browser (contoh: domain.com/goat-creator.php).
 3. Masukkan Username dan Email, lalu tekan tombol B00M!.
